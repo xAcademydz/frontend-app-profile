@@ -23,8 +23,8 @@ subscribe(APP_READY, () => {
       <Header />
       <main>
         <Switch>
-          <Route path="/u/:username" component={ProfilePage} />
-          <Route path="/notfound" component={NotFoundPage} />
+          <Route path="u/:username" component={ProfilePage} />
+          <Route path="notfound" component={NotFoundPage} />
           <Route path="*" component={NotFoundPage} />
         </Switch>
       </main>
