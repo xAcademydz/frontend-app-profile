@@ -6,13 +6,13 @@
   color: white !important;
 
   &:hover {
-    color: red !important;
+    color: #130a48 !important;
 
   }
 }
 
 .socialLinks {
-  color: red;
+  color: #130a48;
 
 
   &:hover {
@@ -51,7 +51,7 @@
 .btn,
 a.btn {
   text-decoration: none;
-  color: #ff0000;
+  color: #130a48;
   padding: 10px;
 
   &:hover {
@@ -75,7 +75,7 @@ a.btn {
 
 .profile-page-bg-banner {
   height: 12rem;
-  background-image: url('./assets/Cover.png');
+  background-image: url('./assets/xAcademy-logo-white.png');
   background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: center;

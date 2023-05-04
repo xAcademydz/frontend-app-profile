@@ -25,7 +25,7 @@ To use this application `devstack <https://github.com/openedx/devstack>`__ must 
 Start the development server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In this project, install requirements and start the development server by running:
+In this project, install requirements and start the development server by running: 
 
 .. code:: bash
 
