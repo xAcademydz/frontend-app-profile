@@ -24,8 +24,11 @@ import configureStore from './data/configureStore';
 
 import './index.scss';
 import Head from './head/Head';
+<<<<<<< HEAD
 
 import AppRoutes from './routes/AppRoutes';
+=======
+>>>>>>> fc9e395a94fbcc4daa238ae278ffa27968154204
 
 subscribe(APP_READY, () => {
   ReactDOM.render(
